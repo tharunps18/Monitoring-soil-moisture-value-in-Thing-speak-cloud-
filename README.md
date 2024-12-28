@@ -85,8 +85,9 @@ Prototype and build IoT systems without setting up servers or developing web sof
 
 ![image](https://github.com/user-attachments/assets/5beaf86c-0d5d-4b99-9c22-bb0351f487ab)
 
+
 # PROGRAM:
-~~
+~~~
 #include <WiFi.h>
 #include "ThingSpeak.h" // always include thingspeak header file after other header files and custom macros
 #define Soil_Moisture 34
@@ -136,6 +137,7 @@ void loop()
   
    delay(5000); // Wait 20 seconds to update the channel again
 }
+~~~
 # CIRCUIT DIAGRAM:
 ![image](https://github.com/user-attachments/assets/1ffc4be8-ab8f-4226-a257-d2e3f941f487)
 
