@@ -1,6 +1,6 @@
-#NAME: THARUN P S
-#REF NO: 24900117
-# Monitoring-soil-moisture-value-in-Thing-speak-cloud
+# NAME: THARUN P S
+# REF NO: 24900117
+# EX.NO 5: Monitoring-soil-moisture-value-in-Thing-speak-cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
 
 # AIM:
